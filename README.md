@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#1]: [Create an Electric Redis integration library]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Olena Molla]  
+**Issue:** [[GitHub issue link](https://github.com/electric-sql/electric/issues/1881)]  
+**Status:** [Phase I]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it matches my interest in backend development, databases, and APIs. The project involves integrating ElectricSQL with Redis, which will help me learn more about real-time data synchronization and open-source development.
+
+I also want to gain experience with TypeScript, Redis, and working within a larger codebase. This issue seems challenging but manageable and will allow me to strengthen both my technical and collaboration skills.
 
 ---
 
